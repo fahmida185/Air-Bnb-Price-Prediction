@@ -1,0 +1,22 @@
+https://datavizcatalogue.com/
+
+1. Want to use ark diagram for long term rentals
+2. Flow Diagarm
+3. Error Bar
+4. Network Diagram(D3)
+5. Nightingale Rose Chart(Any Chart)
+6. Non-ribbon Chord Diagram
+7. Parallel Coordinates Plot(D3)
+8. Radar Chart(Any Chart)
+9. Spiral Plot(D3)
+10.Sunburst Diagram(D3)
+11. Word Cloud(D3)
+
+Tried to use Graph Toolkit, VTK but could not.
+Doing..
+1. Bokeh Sweep
+2. Seaborn Paiplot and Joint Plot
+3. R interactive Map
+4. Seaborn Distant and Regreesion Plot, Swarm Plot, Violin Plot, IV Plot,barplots, pointplots and countplots
+
+1. Pyramid Chart(rents over the year), 
